@@ -1,6 +1,7 @@
-<?php
+<?php 
 
-	echo "Olá mundo 123";
+echo "Hello World!"
 
+echo "Ola mundo!"
 
 ?>
